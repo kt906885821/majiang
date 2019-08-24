@@ -15,4 +15,7 @@ public class PaginationDTO {
     private List<Integer> pages;
 
 
+    public void setPagination(Integer offset, Integer size) {
+
+    }
 }
